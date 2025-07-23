@@ -1,7 +1,6 @@
 [
   {
-    "masterKey": {
-      "botname": Zaxia Bot, 
+    "masterKey": {, 
       "admin": ["61577868885307"], 
       "devMode": false,
       "database": false,
